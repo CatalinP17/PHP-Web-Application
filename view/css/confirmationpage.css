@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    font-style: bold; 
+  }
+
+body{
+	background-color: white;
+	text-align: center;
+}
+
+div {
+    background-color: #dde9ed;
+	border: 0px;
+	width: 60%;
+	margin: 0 auto;
+	display: block;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: indianred;
+}
+
+.btn {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+
+@media screen and (max-width: 480px) {
+    .mobile-hide {
+        display: none;
+    }
+
+    .mobile-center {
+        text-align: center;
+    }
+}

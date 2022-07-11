@@ -1,0 +1,24 @@
+div#header{
+    background-color: #56c456;
+    padding: 5px;
+}
+
+img{
+    max-width:100%;
+}
+
+div#supplemental{
+    background-color: aquamarine;
+}
+
+@media screen and (min-width: 1000px){
+    div#content{
+        float:left;
+        max-width: calc(100% - 340px);
+    }
+
+    div#supplemental{
+        float:right;
+        width: 300px;
+    }
+}

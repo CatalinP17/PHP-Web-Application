@@ -1,0 +1,9 @@
+Web Application (Online Cheese Merchant)
+- Password/Login capabilities.
+- Search for products on website. Split into categories and fields.
+- Add to basket WITHOUT having to Login.
+- Capabilities to purchase items in basket.
+- Fulfil ticket order (purchase) by submitting name, address etc. (no payment details).
+- Easy to update with new products - Dynamic front page.
+- Add events (date, time, duration and location) and be able to allow customers to book tickets for said events.
+- Show promotions on front page (discounts on products and tickets etc)
